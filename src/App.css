@@ -1,0 +1,9 @@
+.App{
+  height: 100vh;
+  background-color: purple;
+  color: white;
+  padding-top: 4rem;
+}
+h1{
+  text-align: center;
+}
